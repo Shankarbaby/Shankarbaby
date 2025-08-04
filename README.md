@@ -1,6 +1,6 @@
 ## Hi👋 I am Sindhu H S
 
-# 💫 About Me:
+
 I am currently learning full stack develobment
 
 
